@@ -1,0 +1,1 @@
+Introductory website for the Odin Project foundations course.
